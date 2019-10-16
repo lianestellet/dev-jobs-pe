@@ -2,16 +2,16 @@
 Repositório para facilitar a conexão entre vagas de TI em Pernambuco com profissionais e estudantes.
 
 #### Problema:
-Hoje há uma abrem muitas vagas de TI diariamente em PE, contudo há uma dificuldade enorme em filtrar as vagas pelas habilidades, experiências e algumas características específicas delas. As pessoas mais novas da área acabam por terem mais dificuldades em quais vagas aplicar e também quais são as habilidades mais importantes que precisam ter para conseguir ingressar no mercado.
+Diariamente abrem muitas vagas de TI em PE, contudo há uma dificuldade em filtrá-las e entender o que é necessário para se capacitar. 
+Maria por exemplo, quer ingressar no mercado de TI mas não sabe por onde começar nem no que deverá se capacitar para ter mais chances de iniciar.
 
 #### Solução:
-Criação de uma API para alimentar base remota com os dados das vagas com categorizações que facilitam a extração de dados para entender as necessidades de capacitação do mercado para que os profissionais busquem quais vagas gostariam de aplicar.
-
+Dispor de uma maneira fácil e clara dados de vagas e suas necessidades de capacitação, de forma que possam se adaptar com mais facilidade ao mercado e conseguir ingressar na vaga. 
 
 ### Para atingir este objetivo iremos:
 - Banco de dados remoto que tenha dados das vagas
 - API backend para gerenciar dados de vagas
-- Front-end para extrair e enviar dados para a API
+- Plataforma web para alimentar e extrair e enviar dados de vagas
 
 ### Sugestão de Tech Stack a ser utilizada:
 - MongoDB: Base dados

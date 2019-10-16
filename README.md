@@ -19,7 +19,7 @@ Dispor de uma maneira fácil e clara dados de vagas e suas necessidades de capac
 - ?: front-end
 
 ### Como sugerir alterações?
-Na parte de Issues podemos inclusive questionar e debater decisões acerca do que será desenvolvido e o porque.
+Na parte de Issues podemos inclusive questionar e debater decisões acerca do que será desenvolvido e o por que.
   
 ### Como contribuir para o VAGAS-TI-PE?
 

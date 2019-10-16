@@ -11,7 +11,7 @@ Dispor de uma maneira fácil e clara dados de vagas e suas necessidades de capac
 ### Para atingir este objetivo precisamos:
 - Banco de dados remoto que tenha dados das vagas
 - API backend para gerenciar dados de vagas
-- Plataforma web para alimentar e extrair e enviar dados de vagas
+- Plataforma web para alimentar e extrair dados de vagas
 
 ### Sugestão de Tech Stack a ser utilizada:
 - MongoDB: Base dados

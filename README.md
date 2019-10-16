@@ -8,7 +8,7 @@ Maria por exemplo, quer ingressar no mercado de TI mas não sabe por onde começ
 #### Solução:
 Dispor de uma maneira fácil e clara dados de vagas e suas necessidades de capacitação, de forma que possam se adaptar com mais facilidade ao mercado e conseguir ingressar na vaga. 
 
-### Para atingir este objetivo iremos:
+### Para atingir este objetivo precisamos:
 - Banco de dados remoto que tenha dados das vagas
 - API backend para gerenciar dados de vagas
 - Plataforma web para alimentar e extrair e enviar dados de vagas

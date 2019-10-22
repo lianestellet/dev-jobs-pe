@@ -1,0 +1,32 @@
+{
+  "_id" : ObjectId("5da95d387c213e556140751b"),
+  "area" : "Front-end",
+  "seniority" : null,
+  "min_jobs_experience" : "15",
+  "company_id" : 1,
+  "state" : "",
+  "city" : "",
+  "dev_area" : {},
+  "description" : "Exemplo teste",
+  "requirements" : [ 
+      "C#", 
+      "javascript"
+  ],
+  "activities" : [ 
+      "resolver bugs", 
+      "criar relatórios"
+  ],
+  "benefits" : [ 
+      "vale alimentação", 
+      "auxílio creche"
+  ],
+  "skills" : [ 
+      "UX/UI"
+  ],
+  "job_contact" : "",
+  "salary" : "2000",
+  "date" : {
+      "application_limit" : ISODate("2019-09-20T00:00:00.000Z"),
+      "created" : ISODate("2019-10-18T07:20:31.677Z")
+  }
+}

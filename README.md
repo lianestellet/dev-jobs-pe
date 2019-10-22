@@ -5,7 +5,6 @@ Repositório para facilitar a conexão entre estudantes e profissionais a vagas 
 #### Problema:
 
 Diariamente abrem muitas vagas de TI em PE, contudo há uma dificuldade em filtrá-las e entender o que é necessário para se capacitar.
-Maria por exemplo, quer ingressar no mercado de TI mas não sabe por onde começar nem no que deverá se capacitar para ter mais chances de iniciar.
 
 #### Solução:
 
@@ -17,16 +16,22 @@ Dispor de uma maneira fácil e clara dados de vagas e suas necessidades de capac
 - API backend para gerenciar dados de vagas
 - Plataforma web para alimentar e extrair dados de vagas
 
-### Sugestão de Tech Stack a ser utilizada:
+### Tech Stack que estamos utilizando:
 
-- MongoDB: Base dados
-- Python: Back-end
-- ?: front-end
+- MongoDB
+- Python Django como REST
+- Vue
 
 ### Como sugerir alterações?
 
-Na parte de Issues podemos inclusive questionar e debater decisões acerca do que será desenvolvido e o por que.
+Na parte de Issues podemos sugerir alterações e melhorias para o projeto.
 
-### Como contribuir para o VAGAS-TI-PE?
+### Como contribuir para o DEV-JOBS-PE?
 
-Ainda a ser feito, mas esse repositório está livre para ser iniciado e enviado modificações via pull request :wink:
+- Escolher Issue a ser implementada
+- Atualizar branch de dev
+- Criar uma branch para a Issue
+- Subir a branch
+- Enviar um PR para dev 
+
+Quaisquer dúvida ou sugestões podem entrar em contato.

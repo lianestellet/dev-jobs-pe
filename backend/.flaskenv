@@ -1,0 +1,2 @@
+FLASK_APP=dev-jobs
+FLASK_ENV=development

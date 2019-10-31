@@ -8,5 +8,4 @@ main = Blueprint('main', __name__)
 def index():
     user_collection = mongo.db.recruiters
     user_collection.insert({'name' : 'Cristina'})
-    user_collection.insert({'name' : 'Derek'})
     return '<h1>Added a Recruiter!</h1>'
